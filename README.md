@@ -1,17 +1,12 @@
-## SqaureOfy
 <div align="center">
 
+  <img align = "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=y6357" />
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squareofy&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=y6357)](https://solved.ac/y6357/)
 
-<div>
-
-
+## SqaureOfy
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SquareOfy)](https://github.com/SquareOfy/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSquareOfy%2Fhit-counter&count_bg=%23FFABAB&title_bg=%23909090&icon=&icon_color=%23FF6C6C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align = "right>>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -31,10 +26,19 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp  -->
 </p>
 
-</div>
-
 
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSquareOfy%2Fhit-counter&count_bg=%23FFABAB&title_bg=%23909090&icon=&icon_color=%23FF6C6C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+<div>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squareofy&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SquareOfy)](https://github.com/SquareOfy/github-readme-stats)
+
 </div>
+
