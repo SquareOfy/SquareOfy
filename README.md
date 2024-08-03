@@ -1,8 +1,5 @@
 <div align="center">
-
-  <img align = "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=y6357" />
-  <img align = "right" height = 100px>
-  
+  <img align = "right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SquareOfy"/>
 
 ## SqaureOfy
   
@@ -38,9 +35,10 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squareofy&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+  <img align = "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=y6357" />
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SquareOfy)](https://github.com/SquareOfy/github-readme-stats)
+
 
 </div>
 
