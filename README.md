@@ -34,13 +34,14 @@
 </div>
 <br>
 <br>
-
+<br>
 
 
 <div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squareofy&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+  <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=squareofy&include_all_commits=true&show_icons=true&theme=cobalt"/>
+  
   <img align = "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=y6357" />
 
   
