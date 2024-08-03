@@ -41,12 +41,12 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img align = "left" src ="https://github-readme-stats.vercel.app/api?username=squareofy&include_all_commits=true&show_icons=true&theme=cobalt"/>
+    <img src ="https://github-readme-stats.vercel.app/api?username=squareofy&include_all_commits=true&show_icons=true&theme=cobalt"/>
     
   </div>
 
   <div>
-     <img align = "right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=y6357" />
+     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=y6357" />
   </div>
   
  
