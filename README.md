@@ -1,7 +1,9 @@
 ### SqaureOfy
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&&color=0:AACAEF,100:FDE7F9&height=200&section=header&text=SquareOf Y%20&fontColor=380036&fontSize=44)
+![header](https://capsule-render.vercel.app/api?type=soft&&color=0:AACAEF,100:FDE7F9&height=200&section=header&text=SquareOf %20Y&fontColor=380036&fontSize=44)
+
+
 <div align="center">
   <img align = "right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=SquareOfy"/>
 
